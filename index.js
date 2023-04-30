@@ -54,15 +54,15 @@ const player = new Fighter({
         run: {
             imageSrc: './img/samuraiMack/Run.png',
             framesMax: 8
+        },
+        jump: {
+            imageSrc: './img/samuraiMack/Jump.png',
+            framesMax: 2
+        },
+        fall: {
+            imageSrc: './img/samuraiMack/Fall.png',
+            framesMax: 2
         }
-    },
-    jump: {
-        imageSrc: './img/samuraiMack/Jump.png',
-        framesMax: 2
-    },
-    fall: {
-        imageSrc: './img/samuraiMack/Fall.png',
-        framesMax: 2
     }
 })
 
