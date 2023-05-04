@@ -7,4 +7,10 @@
 
 
 Ссылка на игру, чтобы поиграть на любом (почти) компьютере:
-https://644e8ddd847cab6625ed1702--eclectic-fox-32aa12.netlify.app
+figting.netlify.app
+
+# Weather App
+Небольшое погодное приложение, написаное от скуки
+
+Ссылка на приложение (оптимизировано и для компьютеров, и для телефонов):
+weather-yandexlyceum.netlify.app
