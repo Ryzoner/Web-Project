@@ -7,10 +7,10 @@
 
 
 Ссылка на игру, чтобы поиграть на любом (почти) компьютере:
-figting.netlify.app
+https://figting.netlify.app
 
 # Weather App
 Небольшое погодное приложение, написаное от скуки
 
 Ссылка на приложение (оптимизировано и для компьютеров, и для телефонов):
-weather-yandexlyceum.netlify.app
+https://weather-yandexlyceum.netlify.app
